@@ -1,0 +1,1 @@
+./gradlew :share:uploadArchives --info
